@@ -1,2 +1,2 @@
 # Natural Language Processing Project
-https://github.com/FENG-Yuanxu/NLP.github.io
+https://feng-yuanxu.github.io/NLP/
